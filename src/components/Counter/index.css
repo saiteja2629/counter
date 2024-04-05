@@ -1,0 +1,36 @@
+.counter-container{
+    background:linear-gradient(to bottom, orange, white, green);
+    width: 40%;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+   
+    align-items: center;
+}
+.counter-container input{
+    margin-top: 20px;
+ width: 80%;
+ height: 40px;
+ border-radius: 14px;
+} 
+.inc-dec{
+    border-radius: 4px;
+   
+    margin: 10px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+   
+
+.value{
+    color: brown;
+    font-size:50px;
+    margin-top: 20px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
