@@ -11,3 +11,10 @@ To know the current branch ( git branch  )
 
 
 step4: push the file ( git push -u origin )
+
+
+// Add new branch 
+
+step1: git branch
+
+step2:to create new branch ( git checkout -b " brnach name " )
